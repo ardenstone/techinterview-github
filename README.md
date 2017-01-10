@@ -1,5 +1,30 @@
 # Technical Interview Homework: GitHub Dashboard
 
+[![Heroku](https://heroku-badge.herokuapp.com/?app=peaceful-journey-76990)](https://peaceful-journey-76990.herokuapp.com)
+
+## Quick start
+
+This project uses HTML5, JS, CSS
+
+To run, clone or download master and open index.html
+
+The following libraries are used via CDN
+* Bootstrap
+* jQuery
+* SugerJS
+* HammerJS (included but not used, would like to use to incorporate pulldown to refresh)
+
+## Supported Browsers
+
+* Chrome (including Android)
+* Firefox
+* Safari (including iOS)
+
+## Notes
+
+If you are not getting results, chances are the GitHub API has reached the [rate limit](https://api.github.com/rate_limit). To resolve just login.
+
+Since all code runs clientside, login credentials are not stored between page refeshes.
 
 ##Purpose
 The purpose of this exercise is to assess the candidate’s ability to build cross platform software clients that satisfy stated requirements. The completed assignment should not only satisfy the requirements outlined below, but also give the candidate an opportunity to show-off their skills.
